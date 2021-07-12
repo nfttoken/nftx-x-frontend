@@ -1,0 +1,259 @@
+[
+  {
+    "vaultId": 0,
+    "verified": true,
+    "amm": true
+  },
+  {
+    "vaultId": 1,
+    "verified": true,
+    "amm": true
+  },
+  {
+    "vaultId": 2,
+    "verified": true,
+    "amm": true
+  },
+  {
+    "vaultId": 3,
+    "verified": true,
+    "amm": true
+  },
+  {
+    "vaultId": 4,
+    "verified": true,
+    "amm": false
+  },
+  {
+    "vaultId": 5,
+    "verified": true,
+    "amm": false
+  },
+  {
+    "vaultId": 6,
+    "verified": true,
+    "amm": false
+  },
+  {
+    "vaultId": 7,
+    "verified": true,
+    "amm": true
+  },
+  {
+    "vaultId": 8,
+    "verified": true,
+    "amm": true
+  },
+  //{
+  //  "vaultId": 9,
+  //  "verified": true,
+  //  "amm": false
+  // },
+  {
+    "vaultId": 10,
+    "verified": true,
+    "amm": false
+  },
+  {
+    "vaultId": 11,
+    "verified": true,
+    "amm": false
+  },
+  {
+    "vaultId": 12,
+    "verified": true,
+    "amm": false
+  },
+  {
+    "vaultId": 13,
+    "verified": true,
+    "amm": false
+  },
+  {
+    "vaultId": 14,
+    "verified": true,
+    "amm": false
+  },
+  {
+    "vaultId": 15,
+    "verified": true,
+    "amm": true
+  },
+  {
+    "vaultId": 16,
+    "verified": true,
+    "amm": true
+  },
+  {
+    "vaultId": 18,
+    "verified": true,
+    "amm": false
+  },
+  {
+    "vaultId": 19,
+    "verified": true,
+    "amm": false
+  },
+  {
+    "vaultId": 20,
+    "verified": true,
+    "amm": true
+  },
+  {
+    "vaultId": 21,
+    "verified": true,
+    "amm": true
+  },
+  {
+    "vaultId": 22,
+    "verified": true,
+    "amm": true
+  },
+  {
+    "vaultId": 27,
+    "verified": true,
+    "amm": true
+  },
+  {
+    "vaultId": 28,
+    "verified": true,
+    "amm": true
+  },
+  {
+    "vaultId": 29,
+    "verified": true,
+    "amm": true
+  },
+  {
+    "vaultId": 30,
+    "verified": true,
+    "amm": true
+  },
+  {
+    "vaultId": 31,
+    "verified": true,
+    "amm": true
+  },
+  {
+    "vaultId": 32,
+    "verified": true,
+    "amm": true
+  },
+  {
+    "vaultId": 33,
+    "verified": true,
+    "amm": true
+  },
+  {
+    "vaultId": 35,
+    "verified": true,
+    "amm": true
+  },
+  {
+    "vaultId": 37,
+    "verified": true,
+    "amm": true
+  },
+  {
+    "vaultId": 40,
+    "verified": true,
+    "amm": true
+  },
+  {
+    "vaultId": 41,
+    "verified": true,
+    "amm": false
+  },
+  //{
+  //  "vaultId": 42,
+  //  "verified": true,
+  //  "amm": false
+  //},
+  {
+    "vaultId": 44,
+    "verified": true,
+    "amm": false
+  },
+  {
+    "vaultId": 49,
+    "verified": true,
+    "amm": false
+  }
+  ,
+  {
+    "vaultId": 47,
+    "verified": true,
+    "amm": false
+  }
+  ,
+  {
+    "vaultId": 50,
+    "verified": true,
+    "amm": false
+  },
+  {
+    "vaultId": 51,
+    "verified": true,
+    "amm": false
+  },
+  {
+    "vaultId": 45,
+    "verified": true,
+    "amm": false
+  },
+  {
+    "vaultId": 53,
+    "verified": true,
+    "amm": true
+  },
+  {
+    "vaultId": 52,
+    "verified": true,
+    "amm": true
+  },
+  {
+    "vaultId": 58,
+    "verified": true,
+    "amm": false
+  },
+  {
+    "vaultId": 61,
+    "verified": true,
+    "amm": false
+  },
+  {
+    "vaultId": 63,
+    "verified": true,
+    "amm": true
+  },
+  {
+    "vaultId": 64,
+    "verified": true,
+    "amm": true
+  },
+  {
+    "vaultId": 67,
+    "verified": true,
+    "amm": false
+  },
+  {
+    "vaultId": 68,
+    "verified": true,
+    "amm": false
+  },
+  {
+    "vaultId": 70,
+    "verified": true,
+    "amm": false
+  },
+  {
+    "vaultId": 72,
+    "verified": true,
+    "amm": false
+  },
+  {
+    "vaultId": 74,
+    "verified": true,
+    "amm": true
+  }
+]
